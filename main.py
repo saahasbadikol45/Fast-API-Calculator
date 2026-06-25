@@ -1,4 +1,3 @@
-[db_assignment.py](https://github.com/user-attachments/files/29348729/db_assignment.py)
 from fastapi import FastAPI
 from pydantic import BaseModel
 import sqlite3
